@@ -2,8 +2,6 @@
 
 ## Sujet 
 
-Notre FYC portera sur fonctionnement un moteur 3D, en partant de la base jusqu'à son utilisation final.
-
 
 Ce cours portera sur le fonctionnement d'un moteur 3D, de ses principes à son utilisation. 
 On abordera donc les différents sujets suivants :
