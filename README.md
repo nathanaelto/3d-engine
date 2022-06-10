@@ -1,5 +1,5 @@
 # Moteur 3D
-Sujet du FYC 
+
 ## Sujet 
 
 Notre FYC portera sur fonctionnement un moteur 3D, en partant de la base jusqu'à son utilisation final.
