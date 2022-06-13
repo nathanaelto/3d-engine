@@ -1,9 +1,9 @@
-# Moteur 3D
+# Création d'un moteur 3D
 
 ## Sujet 
 
 
-Ce cours portera sur le fonctionnement d'un moteur 3D, de ses principes à son utilisation. 
+Ce cours portera sur le fonctionnement d'un moteur 3D et de ses principes à son utilisation. 
 On abordera donc les différents sujets suivants :
 
 * mathématiques (calculs matriciels)
@@ -14,7 +14,7 @@ On abordera donc les différents sujets suivants :
   * Ray-tracing
 * algorithmique
 
-Tout au long de ce cours, les élèves feront un petit projet de création d'un moteur 3D qui servira de fil rouge et de notation finale. 
+Tout au long de ce cours, les élèves feront un projet de création d'un moteur 3D qui servira de fil rouge et de notation finale. 
 Un corrigé type leur sera proposé.
 
 ## Plan sommaire
